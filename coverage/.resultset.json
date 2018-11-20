@@ -54,6 +54,20 @@
         null,
         null
       ],
+      "/Users/alittlecross/Projects/challenges/bookmark-manager/spec/features/updating_bookmarks_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        null,
+        null
+      ],
       "/Users/alittlecross/Projects/challenges/bookmark-manager/spec/features/viewing_bookmarks_spec.rb": [
         1,
         1,
@@ -83,6 +97,6 @@
         null
       ]
     },
-    "timestamp": 1542731165
+    "timestamp": 1542731811
   }
 }
