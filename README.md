@@ -8,6 +8,18 @@ So I can revisit a website quickly,
 I would like to see a list of bookmarks.
 ```
 
+```
+As a user,
+So I can add a new website bookmark,
+I would like to add a website bookmark.
+```
+
+```
+As a user,
+So I can remove websites I no longer want in the list,
+I would like to remove a website bookmark.
+```
+
 ## Domain Model
 
 ![Bookmark Manager domain model](/public/images/bookmark_manager.jpg)
